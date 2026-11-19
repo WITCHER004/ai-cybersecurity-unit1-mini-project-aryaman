@@ -1,0 +1,12 @@
+indicator,value,pct_suspicious
+country_group,domestic,9.902798617000457
+country_group,international,25.794291868605278
+country_group,nearby,13.646055437100213
+device_type,laptop,11.444597520173193
+device_type,mobile,11.010581199202576
+device_type,tablet,8.12897366030881
+device_type,unknown,43.18181818181818
+is_vpn,0,10.576691548278353
+is_vpn,1,18.417945690672962
+new_device,0,8.547299212152128
+new_device,1,37.03860840050912
